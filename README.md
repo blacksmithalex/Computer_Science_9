@@ -1,8 +1,8 @@
 ## ОГЭ по инофрматике и программированию
 
-### Решения заданий 15.2
+### Решения заданий ОГЭ
 
-Задания взято с: https://inf-oge.sdamgia.ru/test?theme=20
+Задания взято с:
 
-
-Решены задачи: 1, 2,  включительно
+1. https://inf-oge.sdamgia.ru/test?theme=20
+2. https://kpolyakov.spb.ru/school/oge/generate.htm
