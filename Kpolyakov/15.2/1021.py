@@ -1,13 +1,15 @@
 n = int(input())
-count, flag0 = 0, False
+count = 0
+flag = False
 for _ in range(n):
-    i = int(input())
-    if i < 5:
+    a = int(input())
+    if a < 5:
         count += 1
-    if i == 10:
-        flag0 = True
+    if a == 10:
+        flag = True
 print(count)
-if flag0:
+if flag:
     print('YES')
 else:
     print('NO')
+

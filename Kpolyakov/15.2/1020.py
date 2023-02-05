@@ -1,13 +1,15 @@
-N = int(input())
-M, flag0 = 0, False
-for _ in range(N):
-    r = int(input())
-    if r > M:
-        M = r
-    if r == 0:
-        flag0 = True
-print(M)
-if flag0:
+n = int(input())
+m = 0
+flag = False
+for _ in range(n):
+    a = int(input())
+    if a > m:
+        m = a
+    if a == 0:
+        flag = True
+print(m)
+if flag:
     print('YES')
 else:
     print('NO')
+
